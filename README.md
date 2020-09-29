@@ -1,7 +1,11 @@
 ### Hello! 👋
 
 ## Online Profiles
-
+<style>
+[href='https://github.com/ogii] img {
+ width: 50px !important;
+}
+</style>
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://github.com/ogii'>
 	<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width: 50px;" alt="github logo"/>
