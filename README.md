@@ -4,7 +4,7 @@
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<a href='https://github.com/ogii'>
-	<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github logo"/>
+	<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="width: 50px;" alt="github logo"/>
 	</a>
 	</br>
 	<a href="https://www.linkedin.com/in/aaron-clark1/">
