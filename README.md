@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Clark</h1>
-<h3 align="center">A Web Dev based in Tokyo, Japan</h3>
+<h3 align="center">Dev based in Tokyo, Japan</h3>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
